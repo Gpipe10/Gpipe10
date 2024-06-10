@@ -1,6 +1,6 @@
 # ¡Hola, soy Gpipe10! 👋
 
-![Banner](https://your-banner-image-link.jpg)
+![Banner](https://github.com/Gpipe10/Gpipe10/blob/main/download.gif)
 
 ## Sobre mí
 

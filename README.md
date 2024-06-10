@@ -1,13 +1,13 @@
-# ¡Hola, soy Gpipe10! 👋
+# Felipe Guzmán 👋
 
 ![Banner](https://github.com/Gpipe10/Gpipe10/blob/main/banner.gif)
 
-## Sobre mí
+## Perfil
 
-👨‍💻 Soy un ingeniero mecatrónico apasionado por el desarrollo de la industria 5.0 e inteligencia artificial.
+👨‍💻 Ingeniero mecatrónico apasionado por el desarrollo de  inteligencia artificial e industria 5.0 .
 
 - 🌱 Actualmente estoy aprendiendo **Django**.
-- 🤖 Estoy desarrollando el robot humanoide **InMoov** diseñado por el francés **Gael Langevin**.
+- 🤖 Estoy desarrollando el robot humanoide **InMoov** .
 - 🐍 Mi lenguaje de programación favorito es **Python**.
 
 ## Lenguajes y Herramientas

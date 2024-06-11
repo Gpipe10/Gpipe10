@@ -6,6 +6,7 @@
 ## Acerca de
 
 👨🏻‍💻 **Ingeniero mecatrónico** 
+
 Con una fuerte pasión por el desarrollo de algoritmos de inteligencia artificial y la industria 5.0.
 
 - 🌱 Actualmente estoy profundizando mis conocimientos en **Django**.

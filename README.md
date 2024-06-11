@@ -29,7 +29,7 @@ Bureau Veritas Group · Bogotá, Colombia
 
 ## Contacto
 
-- 📫 Puedes contactarme en [pipeguzman493@gmail.com](mailto:pipeguzman493@gmail.com).
+- 📫 Puedes contactarme en [pipeguzman493@gmail.com](pipeguzman493@gmail.com).
 
 ---
 
